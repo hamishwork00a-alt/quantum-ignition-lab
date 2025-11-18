@@ -24,7 +24,7 @@
 ```bash
 # 克隆項目
 git clone https://github.com/hamishwork00a-alt/quantum-ignition-lab.git
-cd demonstrator
+cd quantum-ignition-lab
 
 # 安裝依賴
 pip install -r requirements.txt
